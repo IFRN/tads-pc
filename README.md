@@ -1,6 +1,10 @@
 # Programação de Computadores
 Jogos desenvolvidos na disciplina de Programação de Computadores do IFRN
 
+ - [Python com Pygame](https://github.com/IFRN/programacaocomputadores#python-pygame)
+ - [Potigol com Jerimum](https://github.com/IFRN/programacaocomputadores#potigol-jerimum)
+ - [Ruby com Gosu](https://github.com/IFRN/programacaocomputadores#ruby-gosu)
+
 ## Python (pygame)
 
  - **2018.2**: 

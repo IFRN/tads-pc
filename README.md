@@ -14,6 +14,7 @@ Jogos desenvolvidos na disciplina de Programação de Computadores do IFRN
   [Invasão Extraterrestre](https://github.com/Rafael-Rufino/INVAS-O-EXTRATERRESTRE-),
   [Defend Aniladlas](https://github.com/simeithander/defend_aniladlas),
   [Snake Classic 2.0](https://github.com/sergioh665/ProjetoJogo)
+  [Slot Machine](https://github.com/olympio1/Roleta)
   
  - **2018.1**:
 

@@ -7,6 +7,8 @@ Jogos desenvolvidos na disciplina de Programação de Computadores do IFRN
 
 ## Python (pygame)
 
+[![Air Hockey](https://img.youtube.com/vi/Iijtv3c7h-I/0.jpg)](https://www.youtube.com/watch?v=Iijtv3c7h-I)
+
  - **2018.2**: 
   [Air Hockey](https://github.com/IFRNPedroMedeiros/airhokey),
   [Pokequest](https://github.com/Txiag/Pokequest),

@@ -4,8 +4,10 @@ Jogos desenvolvidos na disciplina de Programação de Computadores do IFRN
 ## Python (pygame)
 
  - **2018.2**: 
-  xxxx,
-  yyyy
+  [Air Hockey](https://github.com/IFRNPedroMedeiros/airhokey),
+  [Solid Snake](https://github.com/rafadsfreitas/solidSnake),
+  [Invasão Extraterrestre](https://github.com/Rafael-Rufino/INVAS-O-EXTRATERRESTRE-),
+  [Defend Aniladlas](https://github.com/simeithander/defend_aniladlas)
   
  - **2018.1**:
 
